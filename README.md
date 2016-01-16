@@ -7,7 +7,7 @@ Script collection to generate nice PDFs out of the electronic VFR manual Switzer
 * pdflatex
 
 ### How to use
-Clone into current VFR manual folder (e.g. `151210`), run `make`.
+Clone into current VFR manual folder (e.g. `cd 151210; git clone git@github.com:rogerwalt/skyguidePDFs.git tex; cd tex`), run `make`.
 
 ### License
 See `LICENSE`.
